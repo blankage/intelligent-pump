@@ -1,2 +1,2 @@
 # intelligent-pump
-adaptive IoT sump pump controller
+Aadaptive IoT sump pump controller
